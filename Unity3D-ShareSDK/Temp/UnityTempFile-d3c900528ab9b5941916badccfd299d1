@@ -1,0 +1,72 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp-Editor.dll
+-r:"D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp.dll
+-r:"D:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll"
+-r:"D:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/Editor/UnityEditor.UI.dll"
+-r:Assets/Editor/SDKPorter/XCodeEditor/ICSharpCode.SharpZipLib.dll
+-r:"D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-define:UNITY_4_6_2
+-define:UNITY_4_6
+-define:UNITY_ANDROID
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_4_6_FEATURES
+-define:INCLUDE_WP_BLUE_SUPPORT
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:UNITY5_SCRIPTING_IN_UNITY4
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:UNITY_ANDROID_API
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_WIN
+-define:UNITY_TEAM_LICENSE
+-define:UNITY_PRO_LICENSE
+-define:ENABLE_DUCK_TYPING
+Assets/Editor/SDKPorter/ShareSDKPostProcessBuild.cs
+Assets/Editor/SDKPorter/XCPlist.cs
+Assets/Editor/SDKPorter/XCodeEditor/PBXBuildFile.cs
+Assets/Editor/SDKPorter/XCodeEditor/PBXBuildPhase.cs
+Assets/Editor/SDKPorter/XCodeEditor/PBXDictionary.cs
+Assets/Editor/SDKPorter/XCodeEditor/PBXFileReference.cs
+Assets/Editor/SDKPorter/XCodeEditor/PBXGroup.cs
+Assets/Editor/SDKPorter/XCodeEditor/PBXList.cs
+Assets/Editor/SDKPorter/XCodeEditor/PBXObject.cs
+Assets/Editor/SDKPorter/XCodeEditor/PBXParser.cs
+Assets/Editor/SDKPorter/XCodeEditor/PBXProject.cs
+Assets/Editor/SDKPorter/XCodeEditor/XCBuildConfiguration.cs
+Assets/Editor/SDKPorter/XCodeEditor/XCConfigurationList.cs
+Assets/Editor/SDKPorter/XCodeEditor/XCFileOperationQueue.cs
+Assets/Editor/SDKPorter/XCodeEditor/XCMod.cs
+Assets/Editor/SDKPorter/XCodeEditor/XCProject.cs
+Assets/Editor/SDKPorter/XCodeEditor/XCSourceFile.cs
+Assets/Editor/SDKPorter/XCodeEditor/XCTarget.cs
+Assets/Editor/SDKPorter/XCodeEditor/XCodeEditorMenu.cs
+Assets/Editor/SDKPorter/XCodeEditor/ZipHelper.cs
+-r:"D:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/2.0\System.Runtime.Serialization.dll"
+-r:"D:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/2.0\System.Xml.Linq.dll"
